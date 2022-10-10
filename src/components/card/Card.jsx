@@ -12,7 +12,7 @@ export default function Card(props) {
       </div>
       <div className="card--info">
         <div className="card--location">
-          <img src="src/assets/marker.svg" alt="location-marker" />
+          <img src="marker.svg" alt="location-marker" />
           <span className="card--country">{props.cardData.location}</span>
           <a
             href={`https://goo.gl/maps/${props.cardData.googleMapsUrlId}`}
