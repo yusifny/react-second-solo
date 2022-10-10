@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+}
+
+a {
+  color: #918e9b;
+  display: inline;
+}
+
+a:hover {
+  color: #f55a5a;
+}
+
+section {
+  padding: 0rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
