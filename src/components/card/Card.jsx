@@ -30,7 +30,11 @@ export default function Card(props) {
         <article className="card--description">
           {props.cardData.description}
         </article>
-        <a className="read--more" href="#">
+        <a
+          className="read--more"
+          href={`https://en.wikipedia.org/wiki/${props.cardData.wikipediaId}`}
+          target={'_blank'}
+        >
           Read More
         </a>
       </div>
