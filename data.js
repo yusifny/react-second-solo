@@ -9,6 +9,7 @@ export default [
     description:
       'Walled Old City featuring 1100s fortifications & towers, plus iconic, ornate palaces & mosques.',
     imageUrlId: '1622314621630-0d24bcb5aa67',
+    wikipediaId: 'Old_City_(Baku)',
   },
   {
     id: 2,
@@ -20,6 +21,7 @@ export default [
     description:
       'Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.',
     imageUrlId: '1589308078059-be1415eab4c3',
+    wikipediaId: 'Mount_Fuji',
   },
   {
     id: 3,
@@ -31,6 +33,7 @@ export default [
     description:
       'The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th centurys most famous and distinctive buildings',
     imageUrlId: '1624138784614-87fd1b6528f8',
+    wikipediaId: 'Sydney_Opera_House',
   },
   {
     id: 4,
@@ -42,6 +45,7 @@ export default [
     description:
       'The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.',
     imageUrlId: '1601439678777-b2b3c56fa627',
+    wikipediaId: 'Geirangerfjord',
   },
   {
     id: 5,
@@ -53,6 +57,7 @@ export default [
     description:
       'Ancient world wonder that winds for more than 5,500 miles across China, with towers & walkways.',
     imageUrlId: '1572851819189-7d4b51a3c029',
+    wikipediaId: 'Great_Wall_of_China',
   },
   {
     id: 6,
@@ -64,6 +69,7 @@ export default [
     description:
       'Famed archaeological site featuring the Great Pyramids, the Great Sphinx & other well-known ruins.',
     imageUrlId: '1643667802197-ce810e01619d',
+    wikipediaId: 'Giza_pyramid_complex',
   },
   {
     id: 7,
@@ -75,6 +81,7 @@ export default [
     description:
       '17th-century, Mughal-style, marble mausoleum with minarets, a mosque & famously symmetrical gardens.',
     imageUrlId: '1598324789736-4861f89564a0',
+    wikipediaId: 'Taj_Mahal',
   },
   {
     id: 8,
@@ -86,6 +93,7 @@ export default [
     description:
       'Monumental 3-tiered Roman amphitheater once used for gladiatorial games, with guided tour option.',
     imageUrlId: '1634196243663-71cc3a1c639a',
+    wikipediaId: 'Colosseum',
   },
   {
     id: 9,
@@ -97,6 +105,7 @@ export default [
     description:
       'Gustave Eiffels iconic, wrought-iron 1889 tower, with steps and elevators to observation decks.',
     imageUrlId: '1604175287072-b5e71423060c',
+    wikipediaId: 'Eiffel_Tower',
   },
   {
     id: 10,
@@ -108,5 +117,6 @@ export default [
     description:
       'Victoria Falls is a waterfall on the Zambezi River in southern Africa, which provides habitat for several unique species of plants and animals.',
     imageUrlId: '1603201236596-eb1a63eb0ede',
+    wikipediaId: 'Victoria_Falls',
   },
 ];
